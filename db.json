@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "Angela Yu",
+      "instructor_img": "https://randomuser.me/api/portraits/women/44.jpg",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch using HTML, CSS, JavaScript, React, Node.js, and MongoDB.",
+      "course_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "category": "Development"
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design Masterclass",
+      "instructor": "Michael Brown",
+      "instructor_img": "https://randomuser.me/api/portraits/men/32.jpg",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Master modern UI/UX design principles, wireframing, prototyping, and Figma workflows.",
+      "course_image": "https://images.unsplash.com/photo-1545235617-9465d2a55698?q=80&w=1200&auto=format&fit=crop",
+      "category": "Design"
+    },
+    {
+      "id": 3,
+      "title": "Digital Marketing Essentials",
+      "instructor": "Sophia Lee",
+      "instructor_img": "https://randomuser.me/api/portraits/women/68.jpg",
+      "duration": "12 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Learn SEO, social media marketing, email campaigns, and paid advertising strategies.",
+      "course_image": "https://images.unsplash.com/photo-1557838923-2985c318be48?q=80&w=1200&auto=format&fit=crop",
+      "category": "Marketing"
+    },
+    {
+      "id": 4,
+      "title": "React & Next.js Advanced Course",
+      "instructor": "David Wilson",
+      "instructor_img": "https://randomuser.me/api/portraits/men/75.jpg",
+      "duration": "18 hours",
+      "rating": 4.9,
+      "level": "Advanced",
+      "description": "Build production-ready web applications with React, Next.js, Tailwind CSS, and APIs.",
+      "course_image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+      "category": "Development"
+    },
+    {
+      "id": 5,
+      "title": "Business Analytics with Excel",
+      "instructor": "Emma Johnson",
+      "instructor_img": "https://randomuser.me/api/portraits/women/21.jpg",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "level": "Intermediate",
+      "description": "Analyze business data, create dashboards, and improve decision-making using Excel tools.",
+      "course_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+      "category": "Business"
+    },
+    {
+      "id": 6,
+      "title": "Python for Data Science",
+      "instructor": "James Anderson",
+      "instructor_img": "https://randomuser.me/api/portraits/men/41.jpg",
+      "duration": "22 hours",
+      "rating": 4.9,
+      "level": "Beginner",
+      "description": "Learn Python, NumPy, Pandas, and data visualization techniques for data science projects.",
+      "course_image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1200&auto=format&fit=crop",
+      "category": "Data Science"
+    }
+  ]
+}
