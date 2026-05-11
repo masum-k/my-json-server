@@ -1,5 +1,46 @@
 {
-  "product": [
+  "popular_course": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "Angela Yu",
+      "instructor_img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "price": 49.99,
+      "description": "Learn full-stack web development from scratch using HTML, CSS, JavaScript, React, Node.js, and MongoDB.",
+      "course_image": "https://img-c.udemycdn.com/course/480x270/1565838_e54e_18.jpg",
+      "category": "Development"
+    },
+    {
+      "id": 2,
+      "title": "React & Next.js Advanced Course",
+      "instructor": "David Wilson",
+      "instructor_img": "https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+      "duration": "18 hours",
+      "rating": 4.9,
+      "level": "Advanced",
+      "price": 59.99,
+      "description": "Build production-ready web applications with React, Next.js, Tailwind CSS, and APIs.",
+      "course_image": "https://img-c.udemycdn.com/course/480x270/3873464_403c_3.jpg",
+      "category": "Development"
+    },
+    {
+      "id": 3,
+      "title": "Python for Data Science",
+      "instructor": "James Anderson",
+      "instructor_img": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+      "duration": "22 hours",
+      "rating": 4.9,
+      "level": "Beginner",
+      "price": 54.99,
+      "description": "Learn Python, NumPy, Pandas, and data visualization techniques for data science projects.",
+      "course_image": "https://img-c.udemycdn.com/course/480x270/903744_8eb2.jpg",
+      "category": "Data Science"
+    }
+  ],
+  "all_course": [
     {
       "id": 1,
       "title": "Complete Web Development Bootcamp",
